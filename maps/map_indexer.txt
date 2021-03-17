@@ -1,0 +1,12 @@
+map_01.txt|Proklete_udoli
+map_02.txt|Labyrint_sveta
+map_03.txt|Criss_Cross
+map_04.txt|Simple_row
+map_05.txt|Wrong_layout_no_path
+no_size.txt|Wrong_layout_no_size
+wrong_layout.txt|Wrong_layout_all_bad
+wrong_more_wall.txt|Wrong_more_wall
+no_start_end.txt|Wrong_no_start_end
+map_06.txt|Ivory_tower
+l_like_l.txt|L_lik_L
+game_of_life.txt|Game_of_life

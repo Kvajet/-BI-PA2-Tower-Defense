@@ -1,0 +1,6 @@
+l_like_l.txt|tower_line.txt|tower_line|18.6.2020 1:12:50
+not_existing_map.txt|not_existing_map.txt|not_existing_map|18.6.2020 2:06:33
+map_05.txt|wrong_map_layout.txt|wrong_map_layout|18.6.2020 2:07:01
+map_01.txt|no_stats.txt|no_stats|18.6.2020 2:08:23
+map_01.txt|no_path.txt|no_path|18.6.2020 2:10:14
+l_like_l.txt|my_game_01.txt|my_game_01|18.6.2020 12:40:24

@@ -1,0 +1,16 @@
+49 9                            // MAP SIZE
+100 0 100                       // HP, score, money
+
+TURRETS                         
+1                               // type
+20 10                           // coords
+30 20
+1 1 
+
+2                             
+3 5
+3 4                 
+
+ENEMY
+1                                // type
+3 2

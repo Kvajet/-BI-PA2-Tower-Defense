@@ -1,0 +1,71 @@
+TOWER
+RANGE: 2
+FIRE_DELAY: 1
+COST: 100
+ATTACK: CROSS
+SPECIAL: NONE
+DESCRIPTION: Weak tower with small damage. Why are we still here? Just to suffer.
+DAMAGE: 3
+CONTENT: A
+
+TOWER
+RANGE: 2
+FIRE_DELAY: 2
+COST: 200
+ATTACK: CROSS
+SPECIAL: GENERATE
+DESCRIPTION: And they call it a mine. A MINE!
+DAMAGE: 3
+CONTENT: B
+
+TOWER
+RANGE: 3
+FIRE_DELAY: 3
+COST: 250
+ATTACK: CROSS
+SPECIAL: NONE
+DESCRIPTION: Just a simple and beutiful tower. Tasty.
+DAMAGE: 5
+CONTENT: C
+
+TOWER
+RANGE: 2
+FIRE_DELAY: 1
+COST: 300
+ATTACK: AOE
+SPECIAL: NONE
+DESCRIPTION: This tower has a great power. And with great power comes great responsibility.
+DAMAGE: 4
+CONTENT: D
+
+ENEMY
+HP: 1
+KILL_VALUE: 10
+LORE: Some say he's the Stig, but he isn't. He's the Stig's Chinese cousin!
+DESCRIPTION: Wait a minute, who are you?
+DAMAGE: 1
+CONTENT: %
+
+ENEMY
+HP: 2
+KILL_VALUE: 40
+LORE: He was the best starpilot in the galaxy, and a cunning warrior... And he was a good friend. But most importantly, he had no highground.
+DESCRIPTION: This masked handsome guy makes strange sounds.
+DAMAGE: 3
+CONTENT: ?
+
+ENEMY
+HP: 5
+KILL_VALUE: 50
+LORE: 'Boys and girls are not to be within eight inches of each other.' Dolores predicted corona! 
+DESCRIPTION: Things at Hogwarts are far worse than she feared.
+DAMAGE: 1
+CONTENT: !
+
+ENEMY
+HP: 10
+KILL_VALUE: 100
+LORE: Ogres are like onion. They don't stink. And no, they won't make you cry.
+DESCRIPTION: What are you doing in his swamp?
+DAMAGE: 6
+CONTENT: 8
