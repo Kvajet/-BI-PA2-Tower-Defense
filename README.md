@@ -25,7 +25,7 @@ It would be nice to mention me in your source codes or to mention my GitHub once
 
 Jako téma své semestrální práce jsem si vybral tower defense hru.
 
-# použité knihy a nástroje
+# použité knihovny a nástroje
 
 Hra používá knihovnu `<termios.h>`, která je dostupná na Linuxových distribucích. Proto použijte Linux či WSL pro spuštění na Windows. Používám také nástroj `doxygen` pro generování dokumentace (ten není ke spuštění hry třeba).
 
